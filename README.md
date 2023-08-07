@@ -16,4 +16,4 @@ This bootcamp has 10 spints as follow.
 - Essential Python for Data Analyst
 - Dashboard
 
-- 
+  You can find me on LinkedIn
